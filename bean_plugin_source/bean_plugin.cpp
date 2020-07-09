@@ -1,10 +1,13 @@
 // bean_plugin.cpp : 定义控制台应用程序的入口点。
 //
 
+#ifdef WIN32
 #include "stdafx.h"
+#endif
 
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include <map>
 
 using namespace std;
