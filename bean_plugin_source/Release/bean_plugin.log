@@ -1,0 +1,10 @@
+﻿  bean_plugin.cpp
+bean_plugin.cpp(50): warning C4101: “buf”: 未引用的局部变量
+bean_plugin.cpp(139): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  2 of 397 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bean_plugin.vcxproj -> G:\yiyu\workspace\SVN\ChiTuBox\trunk\DOC\plugin\bean_plugin\bean_plugin\Release\bean_plugin.exe
+  bean_plugin.vcxproj -> G:\yiyu\workspace\SVN\ChiTuBox\trunk\DOC\plugin\bean_plugin\bean_plugin\Release\bean_plugin.pdb (Full PDB)
